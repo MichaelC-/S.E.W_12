@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"                   "S.E.W 12"
+	"version"				 "1.0"
+	"author_name"            "Strayswordsman"
+	"info"                   "Swift Elimination Weaponry"
+}
